@@ -17,7 +17,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ * '-'_꩜ 𝐃𝐀𝐑𝐊 𝐙𝐄𝐑𝐎 𝐌𝐃 𝐒𝐎𝐍𝐆 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ꩜_'-' * ]⦁⫸
+⫷⦁[ * '-'_NADEEN-MD-MP3_DOWNLOADER_'-' * ]⦁⫸
 
 🎵 *📼 NADEEN-MD MP3 DOWNLOADER . .⚙️*
 
@@ -65,7 +65,7 @@ const url = data.url
     
     
 let desc = `
-⫷⦁[ * '-'_꩜ 𝘿𝘼𝙍𝙆 𝙕𝙀𝙍𝙊 𝙈𝘿 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍 ꩜_'-' * ]⦁⫸ 
+⫷⦁[ * '-'_NADEEN-MD-MP4_DOWNLOADER_'-' * ]⦁⫸ 
 
 🎥 *🎞 NADEEN-MD MP4 DOWNLOADER . .⚙️
 
